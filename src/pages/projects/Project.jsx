@@ -11,7 +11,7 @@ import SpecialOrthopedic from "../../assets/projects/specializedorthopedic.PNG";
 import Sobol from "../../assets/projects/sobol.PNG";
 import OptimalOrthomed from "../../assets/projects/optimalorthopedic.PNG";
 import SteveWien from "../../assets/projects/stevewien.PNG";
-import NorthWestMedical from "../../assets/projects/north-west.PNG";
+// import NorthWestMedical from "../../assets/projects/north-west.PNG";
 import Web5Hackathon from "../../assets/projects/web5-hackathon.PNG";
 
 function Project() {
